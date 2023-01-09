@@ -1,0 +1,19 @@
+{
+  "name": "treemap_choropleth_md",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "cp -a ../dev_treemap_choropleth_MD/dist/. src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ISGEOCOMPANY/treemap_choropleth_MD.git"
+  },
+  "keywords": [],
+  "author": "Vasiliy Yasko <baziliy14@gmail.com> (https://baz14.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ISGEOCOMPANY/treemap_choropleth_MD/issues"
+  },
+  "homepage": "https://github.com/ISGEOCOMPANY/treemap_choropleth_MD#readme",
+}
